@@ -1,6 +1,6 @@
 ## CARRINHO DE COMPRAS - ROCKETSHOES.
 
-Um projeto de uma loja de tenis, onde o usuario pode colocar os itens no carrinho e ver o subtotal e total de itens que ele escolheu de acordo com as unidades em estoque.
+Um projeto de uma loja de tênis, onde o usuário pode colocar os itens no carrinho e ver o subtotal e total de itens que ele escolheu conforme as unidades em estoque.
 
 ## RODANDO A APLICAÇÃO LOCALMENTE:
 
