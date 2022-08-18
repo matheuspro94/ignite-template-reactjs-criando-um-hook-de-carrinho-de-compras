@@ -26,6 +26,26 @@ Execute a aplicação:
 $ yarn start
 ```
 
+## Imagens
+
+Header
+
+<p align="center">
+  <img width="800" src="src/assets/readme/Header.png"> 
+</p>
+
+Home
+
+<p align="center">
+  <img width="800" src="src/assets/readme/Home.png"> 
+</p>
+
+Cart
+
+<p align="center">
+  <img width="800" src="src/assets/readme/Cart.png"> 
+</p>
+
 ## Contato
  
 <a targer="_blank" href="https://www.linkedin.com/in/matheus-proenca-dev/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
