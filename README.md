@@ -31,19 +31,19 @@ $ yarn start
 Header
 
 <p align="center">
-  <img width="800" src="src/assets/readme/Header.png"> 
+  <img width="800" src="src/assets/readme/header.jpg"> 
 </p>
 
 Home
 
 <p align="center">
-  <img width="800" src="src/assets/readme/Home.png"> 
+  <img width="800" src="src/assets/readme/home.jpg"> 
 </p>
 
 Cart
 
 <p align="center">
-  <img width="800" src="src/assets/readme/Cart.png"> 
+  <img width="800" src="src/assets/readme/cart.jpg"> 
 </p>
 
 ## Contato
