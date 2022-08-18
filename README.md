@@ -31,7 +31,7 @@ $ yarn start
 Header
 
 <p align="center">
-  <img width="800" src="src/assets/readme/header.jpg"> 
+  <img width="600" src="src/assets/readme/header.jpg"> 
 </p>
 
 Home
